@@ -20,12 +20,12 @@ Microservices with GRPC, Restful API, GraphQL, Docker.
 
 + Source:
 
-- gitlab.com/tungeverest
+- https://github.com/tungeverest
 
-- github.com/tungeverest
+- https://gitlab.com/tungeverest
 
 + Blogs:
-- viblo.asia/u/tungeverest
+- https://viblo.asia/u/tungeverest
 <!---
 tungeverest/tungeverest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
