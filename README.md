@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @tungeverest
-- This my profile.
+
+- This is my profile.
 
 I'm Backend Developer (Python/Django/Angular/NodeJs).
 Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django.
 Microservices with GRPC, Restful API, GraphQL, Docker.
+
 ...................................
+
 + Contact:
 - Skype: tranthanhtung.everest
 - Email: tranthanhtung.everest@gmail.com
@@ -17,12 +20,12 @@ Microservices with GRPC, Restful API, GraphQL, Docker.
 
 + Source:
 
-gitlab.com/tungeverest
+- gitlab.com/tungeverest
 
-github.com/tungeverest
+- github.com/tungeverest
 
 + Blogs:
-viblo.asia/u/tungeverest
+- viblo.asia/u/tungeverest
 <!---
 tungeverest/tungeverest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
