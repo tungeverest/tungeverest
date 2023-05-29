@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @tungeverest
-- This is my profile.
+# 👋 Hi, I’m @tungeverest
+This is my profile.
 
 I'm Fullstack Developer (Python/Javascripts/DevOps).
-Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django.
-Microservices with GRPC, Restful API, GraphQL, Docker.
-DepOps: SSH, Vagrant, Ansible, Gitlab Runner, Docker, Kubernetes.
+### Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django.
+
+### Microservices with GRPC, Restful API, GraphQL, Docker.
+
+### DevOps: SSH, Vagrant, Ansible, Gitlab Runner, Docker, Kubernetes.
 
 ...................................
 
@@ -26,6 +28,7 @@ DepOps: SSH, Vagrant, Ansible, Gitlab Runner, Docker, Kubernetes.
 
 + Blogs:
 - https://viblo.asia/u/tungeverest
+
 <!---
 tungeverest/tungeverest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
