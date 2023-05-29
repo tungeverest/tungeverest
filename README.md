@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @tungeverest
-
 - This is my profile.
 
-I'm Backend Developer (Python/Django/Angular/NodeJs).
+I'm Fullstack Developer (Python/Javascripts/DevOps).
 Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django.
 Microservices with GRPC, Restful API, GraphQL, Docker.
+DepOps: SSH, Vagrant, Ansible, Gitlab Runner, Docker, Kubernetes.
 
 ...................................
 
 + Contact:
-- Skype: tranthanhtung.everest
-- Email: tranthanhtung.everest@gmail.com
+- Skype: tttung.everest@outlook.com
+- Email: tttung.everest@outlook.com
 - Phone: +84 834 600 680
 - Facebook: https://www.facebook.com/tranthanhtung.everest
 
