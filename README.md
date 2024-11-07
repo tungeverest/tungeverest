@@ -2,19 +2,18 @@
 This is my profile.
 
 ## I'm Fullstack Developer (Python/Javascripts/DevOps).
-### Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django.
+### Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django, FastAPI.
 
 ### Microservices with GRPC, Restful API, GraphQL, Docker.
 
-### DevOps: SSH, Vagrant, Ansible, Gitlab Runner, Docker, Kubernetes.
+### DevOps: SSH, Vagrant, Ansible, Gitlab Runner, GitHub Action, Docker, Kubernetes, AWS, Google Cloud, DataDog Monitoring.
 
 ...................................
 
 + Contact:
-- Skype: tttung.everest@outlook.com
 - Email: tttung.everest@outlook.com
-- Phone: +84 834 600 680
-- Facebook: https://www.facebook.com/tranthanhtung.everest
+- Phone(Zalo): +84 834 600 680
+- Facebook: https://www.facebook.com/tranthanhtung.everest/
 
 + CV job online.
 - TopCV: https://www.topcv.vn/p/tungeverest
