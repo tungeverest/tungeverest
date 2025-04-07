@@ -2,7 +2,7 @@
 This is my profile.
 
 ## I'm Fullstack Developer (Python/Javascripts/DevOps).
-### Skills: HTML, CSS, SCSS, Bootstrap, PHP, Laravel, Javascript, JQuery, NodeJS, Python, Django, FastAPI.
+### Skills: HTML, CSS, SCSS, PHP, Javascript, NodeJS, Python, Django, FastAPI, Springboot.
 
 ### Microservices with GRPC, Restful API, GraphQL, Docker.
 
@@ -12,23 +12,12 @@ This is my profile.
 
 + Contact:
 - Email: tttung.everest@outlook.com
-- Phone(Zalo): +84 834 600 680
-- Facebook: https://www.facebook.com/tranthanhtung.everest/
-
-+ CV job online.
-- TopCV: https://www.topcv.vn/p/tungeverest
-- Linkedin: https://www.linkedin.com/in/tungeverest/
+- Phone(Zalo): +84 876 000 602
 
 + Source:
 
 - https://github.com/tungeverest
-
 - https://gitlab.com/tungeverest
 
 + Blogs:
 - https://viblo.asia/u/tungeverest
-
-<!---
-tungeverest/tungeverest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
